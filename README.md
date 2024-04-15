@@ -9,10 +9,12 @@ This React Native component allows users to create and schedule notifications us
 - **Permission Handling**: The app requests permission from the user to receive notifications.
 
 ## Screenshots
-<div style={display:'flex', width:'300'}>
-<img src='./assets/ss/img1.jpg' alt='screenshot1'>
-<img src='./assets/ss/img2.jpg' alt='screenshot1'>
+
+<div style={display:'flex'}>
+<img src='./assets/ss/img1.jpg' alt='screenshot1' width='300'>
+<img src='./assets/ss/img2.jpg' alt='screenshot2' width='300'>
 </div>
+
 ## Usage
 
 1. Install dependencies: `npm install`
